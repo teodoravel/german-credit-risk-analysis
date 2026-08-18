@@ -1,0 +1,5 @@
+kmeans_cluster,duration,amount,installment_rate,age,residence_time,existing_credits,people_liable,credit_history_A31,credit_history_A34,housing_A152,savings_A64,employment_A72,status_A14
+0,36.0,7425.0,2.0,32.0,3.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+1,15.0,1937.0,3.0,30.0,2.5,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0
+2,15.0,2012.0,4.0,37.0,3.0,2.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0
+3,24.0,2149.0,4.0,34.0,3.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0
